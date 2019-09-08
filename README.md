@@ -1,3 +1,6 @@
+This is the code that resulted from following the tutorial from Traversy Media with a few modifications of myself.
+The original repository can be found at [this location](https://github.com/bradtraversy/angular-crash-todolist).
+The video tutorial is on YouTube at [this locations](https://www.youtube.com/watch?v=Fdf5aTYRW0E).
 # AngularCrashTodolist
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
